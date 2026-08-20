@@ -13,9 +13,9 @@ This is a Python program that converts a given distance from kilometers to miles
 - Distance in kilometers (km)
 
 ## Sample Input/Output
-Enter distance in kilometers: 10
+Enter distance in kilometers: 10  
 Distance in miles: 6.21371
 
 ## Author
-*Name: Zaiden Quinn A. Olaguera*
+*Name: Zaiden Quinn A. Olaguera*  
 *Section: 8 - Ilang-Ilang*
